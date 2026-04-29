@@ -1,0 +1,6 @@
+-- libros
+-- "id";"titulo";"autor_id";"editorial_id";"precio_venta";"fechaedicion"
+"101";"El Quijote Moderno";"1";"1";"19.95";"2020-05-10"
+"102";"Aprendiendo SQL";"2";"1";"25.50";"2021-03-15"
+"103";"Java desde Cero";"3";"2";"30.00";"2019-11-20"
+"104";"Bases de Datos Avanzadas";"2";"3";"45.99";"2022-01-10"

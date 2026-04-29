@@ -1,0 +1,4 @@
+-- id;nombre;direccion;poblacion;codpostal;telefono;email
+1;Juan Pérez;Calle Real 12;Ubrique;11600;600123123;juan@email.com
+2;María López;Av. España 45;Ubrique;11600;600456456;maria@email.com
+3;Antonio Ruiz;Calle Alta 7;Ubrique;11600;600789789;antonio@email.com
