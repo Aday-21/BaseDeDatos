@@ -135,3 +135,9 @@ BEGIN
     END IF;
 END $$
 DELIMITER ;
+
+-- LLamamos a los procedimientos y las funciones para verificar su funcionamiento
+SELECT suma_saldos() AS total_saldos;
+SELECT mejor_cliente() AS id_mejor_cliente;
+CALL verificar_saldo(1);
+CALL verificar_saldo_actualizar(1);
